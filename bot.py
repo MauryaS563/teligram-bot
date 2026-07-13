@@ -1,0 +1,1 @@
+print("Educational Bot is ready!")
